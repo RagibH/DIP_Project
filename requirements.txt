@@ -1,3 +1,6 @@
-gradio
-tensorflow
+streamlit
+numpy
+opencv-python-headless
 pillow
+scikit-image
+matplotlib
